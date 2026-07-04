@@ -1,0 +1,18 @@
+         <style>
+            h2{
+                color:aqua;
+                text-align:center;
+            }
+            .csm{
+                color:chocolate;
+                text-align: center;
+            }
+            #cse{
+                color:blueviolet;
+                text-align: center;
+            }
+            *{
+                color:chartreuse;
+                text-align: justify;
+            }
+         </style>
